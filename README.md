@@ -63,6 +63,7 @@ Controla a execução do programa, permitindo que o usuário interaja com o sist
 
 ## 📜 Licença
 @CarlosCosta
+---
 Este projeto é de livre uso para fins acadêmicos. ✨  
 
 🚀 *Feito com dedicação e muito código!* 💻🔥
